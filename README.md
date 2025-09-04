@@ -48,11 +48,8 @@ This project demonstrates **microcontroller-based motor control**, closed-loop f
 └── main.c  # Main code for PWM, speed, RPM, current measurement  
 
 📁 Project Root/  
-<br />
 ├── graph.py # Graphing / plotting motor parameters  
-<br />
 ├── DEMO_1.mp4 # Demo video of motor operation  
-<br />
 └── Smester_Project_Report_11.pdf # Detailed project report  
 
 ---
