@@ -39,19 +39,12 @@ This project demonstrates **microcontroller-based motor control**, closed-loop f
 ## 📂 Project Structure
 
 📁 uVision_Keil_Project_11/  
-<br />
 ├── Objects/ # Compiled object files  
-<br />
 ├── RTE/ # Run-time environment files  
-<br />
 ├── tempCodeRunnerFile.py # Temporary file inside Keil listings  
-<br />
 ├── MOTOR_CTRL_COMBINED_CODE.uvprojx  
-<br />
 ├── MOTOR_CTRL_COMBINED_CODE.uvoptx  
-<br />
 └── MOTOR_CTRL_COMBINED_CODE.uvguix.ApriZon  
-<br />
 └── main.c  # Main code for PWM, speed, RPM, current measurement  
 
 📁 Project Root/  
